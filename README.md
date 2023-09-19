@@ -9,5 +9,4 @@ Currently using vue.js as my primary framework, but im also familiar with both r
 
 ### 📫 Want to contact me?: sikje96@gmail.com
 
-### 👥 Connect?:
-www.linkedin.com/in/simon-kjellerup
+### 👥 Connect?: www.linkedin.com/in/simon-kjellerup
