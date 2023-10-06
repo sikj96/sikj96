@@ -8,7 +8,9 @@ Currently using vue.js as my primary framework, but also familiar with both reac
 - Web development | Focus on frontend
 
 ### 📫 Want to contact me?:
+
 sikje96@gmail.com
 
 ### 👥 Connect?:
+
 www.linkedin.com/in/simon-kjellerup
