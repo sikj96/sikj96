@@ -7,7 +7,7 @@ Currently using vue.js as my primary framework, but also familiar with both reac
 - Multimedia Designer | Focus on graphic design
 - Web development | Focus on frontend
 
-### 📫 Want to contact me?:
+### 📫 Contact?:
 
 sikje96@gmail.com
 
