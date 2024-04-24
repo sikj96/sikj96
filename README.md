@@ -7,10 +7,6 @@ Currently using vue.js as my primary framework, but also familiar with both reac
 - Multimedia Designer | Focus on graphic design
 - Web development | Focus on frontend, JavaScript and vue.js
 
-### 📫 Contact?:
-
-sikje96@gmail.com
-
 ### 👥 Connect?:
 
 www.linkedin.com/in/simon-kjellerup
