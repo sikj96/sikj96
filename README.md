@@ -5,7 +5,7 @@ Currently using vue.js as my primary framework, but also familiar with both reac
 
 ### 🏫 Educations:
 - Multimedia Designer | Focus on graphic design
-- Web development | Focus on frontend
+- Web development | Focus on frontend, JavaScript and vue.js
 
 ### 📫 Contact?:
 
